@@ -40,4 +40,13 @@ The task is to classify reviews as **positive** or **negative** using multiple m
 
 ✅ In this task, **Logistic Regression** achieved the highest accuracy.
 
+📚 References
+
+Scikit-learn Model Evaluation
+
+Support Vector Machines
+
+Confusion Matrix Visualization
+
+
 
